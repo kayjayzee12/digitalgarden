@@ -31,7 +31,7 @@ These are the fundamental elements of this world and building blocks on which it
 
 ---
 
-### **4. [[First Fantasy/Worldbuilding/Factions/Factions Overview\|Factions Overview]]
+### **4. [[First Fantasy/Worldbuilding/Factions/Factions Overview\|Factions Overview]]**
 
 
 ---
@@ -46,7 +46,7 @@ These are the fundamental elements of this world and building blocks on which it
 
 ---
 
-### **7. [[First Fantasy/Worldbuilding/Story Arcs/Story Overview\|Story Overview]]
+### **7. [[First Fantasy/Worldbuilding/Story Arcs/Story Overview\|Story Overview]]**
 
 
 ---
