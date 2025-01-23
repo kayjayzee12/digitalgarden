@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/races/races-overview/"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/races/races-overview/","noteIcon":"","created":"2025-01-21T01:55:52.920+09:00","updated":"2025-01-23T22:53:35.898+09:00"}
 ---
 
 ### **3. Races**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-falls/the-streets/"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-falls/the-streets/","noteIcon":"","created":"2025-01-21T23:37:01.323+09:00","updated":"2025-01-23T23:00:17.039+09:00"}
 ---
 
 ### Expanded Guide to The Streets of Prismatic Falls

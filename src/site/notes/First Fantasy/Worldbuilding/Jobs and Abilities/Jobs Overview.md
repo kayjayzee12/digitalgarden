@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/jobs-and-abilities/jobs-overview/"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/jobs-and-abilities/jobs-overview/","noteIcon":"","created":"2025-01-21T03:04:47.040+09:00","updated":"2025-01-23T22:54:40.355+09:00"}
 ---
 
 ### **5. Jobs and Abilities**

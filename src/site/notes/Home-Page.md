@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2025-01-13T14:01:55.695+09:00","updated":"2025-01-23T22:49:44.311+09:00"}
 ---
 
 # Crystalpunk Chronicles

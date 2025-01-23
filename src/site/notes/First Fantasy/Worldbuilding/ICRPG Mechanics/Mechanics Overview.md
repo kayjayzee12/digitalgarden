@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/icrpg-mechanics/mechanics-overview/"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/icrpg-mechanics/mechanics-overview/","noteIcon":"","created":"2025-01-21T03:41:16.956+09:00","updated":"2025-01-23T22:55:16.130+09:00"}
 ---
 
 ### **6. Mechanics**

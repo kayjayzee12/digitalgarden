@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-falls/the-high-rises/"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-falls/the-high-rises/","noteIcon":"","created":"2025-01-21T18:26:23.815+09:00","updated":"2025-01-23T23:00:01.973+09:00"}
 ---
 
 ### Expanded Guide to The High Rises of Prismatic Falls

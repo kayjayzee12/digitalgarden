@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-jungles/the-spike/"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-jungles/the-spike/","noteIcon":"","created":"2025-01-22T10:07:58.635+09:00","updated":"2025-01-23T23:03:02.537+09:00"}
 ---
 
 The Spike, located in the far east of the Overgrowth, is one of the most foreboding and mysterious landmarks in the region. It is a massive, dark mountain that rises dramatically above the dense jungle, visible even from outside Prismatic Falls on rare clear days. Below is a detailed exploration of this location:

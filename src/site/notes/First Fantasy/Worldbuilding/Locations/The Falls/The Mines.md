@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-falls/the-mines/"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-falls/the-mines/","noteIcon":"","created":"2025-01-22T05:49:39.515+09:00","updated":"2025-01-23T23:00:39.321+09:00"}
 ---
 
 ### Expanded Guide to the Mines of Prismatic Falls

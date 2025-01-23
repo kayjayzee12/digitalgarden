@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-jungles/the-overgrowth/"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-jungles/the-overgrowth/","noteIcon":"","created":"2025-01-22T05:57:36.980+09:00","updated":"2025-01-23T23:01:26.751+09:00"}
 ---
 
 

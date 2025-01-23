@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-falls/prismatic-falls/"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-falls/prismatic-falls/","noteIcon":"","created":"2025-01-21T05:09:02.707+09:00","updated":"2025-01-23T22:58:27.361+09:00"}
 ---
 
 ## **City Overview**

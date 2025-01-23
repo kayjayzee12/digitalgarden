@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/factions/factions-overview/"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/factions/factions-overview/","noteIcon":"","created":"2025-01-21T02:35:50.505+09:00","updated":"2025-01-23T22:54:26.159+09:00"}
 ---
 
 ### **4. Factions**

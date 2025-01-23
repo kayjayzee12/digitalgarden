@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-jungles/lunarian-ruins/"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-jungles/lunarian-ruins/","noteIcon":"","created":"2025-01-22T09:15:54.596+09:00","updated":"2025-01-23T23:01:39.591+09:00"}
 ---
 
 ### Overview

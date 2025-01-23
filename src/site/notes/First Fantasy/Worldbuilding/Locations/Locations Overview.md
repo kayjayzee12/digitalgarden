@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/locations-overview/"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/locations-overview/","noteIcon":"","created":"2025-01-21T00:42:19.677+09:00","updated":"2025-01-23T22:53:00.317+09:00"}
 ---
 
 ### **2. Locations**

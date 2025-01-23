@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/notable-np-cs/npc-overview/"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/notable-np-cs/npc-overview/","noteIcon":"","created":"2025-01-21T04:51:33.169+09:00","updated":"2025-01-23T22:57:25.400+09:00"}
 ---
 
 ### **9. Notable NPCs**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/general-overview/"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/general-overview/","noteIcon":"","created":"2025-01-21T00:00:16.115+09:00","updated":"2025-01-23T22:52:35.880+09:00"}
 ---
 
 ### **1. Campaign Overview**
