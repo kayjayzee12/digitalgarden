@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-falls/the-cloudtops/","noteIcon":"","created":"2025-01-21T10:27:25.473+09:00","updated":"2025-01-26T21:04:03.441+09:00"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-falls/the-cloudtops/","noteIcon":"","created":"2025-01-21T10:27:25.473+09:00","updated":"2025-02-01T23:39:08.998+09:00"}
 ---
 
 #location 
@@ -104,3 +104,5 @@ The Cloudtops provide an ideal backdrop for:
 • Heists and Espionage: Breaking into fortified estates or uncovering secrets in the Core’s administrative towers.
 
 • Exploration of Power Dynamics: Players can experience firsthand the stark disparity between the opulence of the Cloudtops and the desperation of the Slums.
+
+![Cloudtops by Dimitry Popov 1.jpg](/img/user/Attachments/Cloudtops%20by%20Dimitry%20Popov%201.jpg)

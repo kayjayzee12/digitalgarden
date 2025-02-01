@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-falls/the-high-rises/","noteIcon":"","created":"2025-01-21T18:26:23.815+09:00","updated":"2025-01-26T21:04:13.255+09:00"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-falls/the-high-rises/","noteIcon":"","created":"2025-01-21T18:26:23.815+09:00","updated":"2025-02-01T23:40:48.352+09:00"}
 ---
 
 #location 
@@ -73,3 +73,6 @@ The High Rises are the bustling heart of Prismatic Falls, located just below the
 3. **Tournament Investigation**
     
     - During the mid-year Tournament at the Arena of Kings, a high-ranking cult spy is murdered. Uncover the culprit while participating in the high-stakes event​.
+
+
+![Airship over the Falls by Dimitry Popov 1.jpg](/img/user/Attachments/Airship%20over%20the%20Falls%20by%20Dimitry%20Popov%201.jpg)

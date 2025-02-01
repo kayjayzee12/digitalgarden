@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/notable-np-cs/voryn-bloodspark/","noteIcon":"","created":"2025-01-20T16:21:07.156+09:00","updated":"2025-02-01T13:57:23.549+09:00"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/notable-np-cs/voryn-bloodspark/","noteIcon":"","created":"2025-01-20T16:21:07.156+09:00","updated":"2025-02-02T00:40:56.836+09:00"}
 ---
 
 # Voryn Bloodspark
@@ -74,3 +74,5 @@ There are whispers that he is gathering **components for a powerful spell**—on
 ## Final Notes
 Voryn Bloodspark is a **man with a past, a blade of fire and lightning, and an uncertain future**.  
 Whether he dies **a fugitive**, **a martyr**, or **a revolutionary**, is your choice. 
+
+![Pasted image 20250202004054.jpg](/img/user/Attachments/Pasted%20image%2020250202004054.jpg)

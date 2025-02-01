@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-falls/prismatic-falls/","noteIcon":"","created":"2025-01-21T05:09:02.707+09:00","updated":"2025-01-26T21:03:54.904+09:00"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-falls/prismatic-falls/","noteIcon":"","created":"2025-01-21T05:09:02.707+09:00","updated":"2025-02-01T23:34:20.857+09:00"}
 ---
 
 #location 
@@ -74,3 +74,8 @@ The city is ruled by a corporatocratic-theocratic council formed by cult leaders
 • Combat and Crime: Living nightmares and gang wars provide constant threats, while law enforcement is privatized and often corrupt .
 
 • Exploration: Navigate hidden passages, ascend to the Cloudtops, or venture into the Dead-Zone for high-risk, high-reward scenarios.
+
+
+
+![Prismatic Falls (with Icons & References).jpg](/img/user/Attachments/Prismatic%20Falls%20(with%20Icons%20&%20References).jpg)
+

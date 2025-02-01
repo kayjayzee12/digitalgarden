@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/notable-np-cs/ms-marry-weather/","noteIcon":"","created":"2025-01-30T19:11:30.325+09:00","updated":"2025-02-01T13:58:20.512+09:00"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/notable-np-cs/ms-marry-weather/","noteIcon":"","created":"2025-01-30T19:11:30.325+09:00","updated":"2025-02-02T00:17:11.156+09:00"}
 ---
 
 # Marry-Weather
@@ -68,3 +68,7 @@ Her **knowledge of the Corporation’s corrupt dealings and hidden facilities** 
 
 ## Final Notes  
 Marry-Weather is a **wild card—charming, cunning, and always playing a long game**. Whether she ends up as **a crucial ally, a betrayer, or a tragic figure taken by the Corporation**, **her fate is in the party’s hands**.
+
+
+![u1319467354_A_confident_and_composed_young_woman_Marry-Weathe_3f7a928c-41d6-48b2-a1e0-b50e21e26ccf_1.png](/img/user/Attachments/u1319467354_A_confident_and_composed_young_woman_Marry-Weathe_3f7a928c-41d6-48b2-a1e0-b50e21e26ccf_1.png)
+

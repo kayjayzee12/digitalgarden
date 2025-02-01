@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/races/beastfolk/","noteIcon":"","created":"2025-02-01T12:10:28.002+09:00","updated":"2025-02-01T13:31:46.104+09:00"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/races/beastfolk/","noteIcon":"","created":"2025-02-01T12:10:28.002+09:00","updated":"2025-02-02T00:04:02.864+09:00"}
 ---
 
 #Bio-form 
+
+![u1319467354_Anthropomorphic_humanoids_with_a_blend_of_animal__d5474315-a834-4b9d-ac93-b1a0901fc93f_3.png](/img/user/Attachments/u1319467354_Anthropomorphic_humanoids_with_a_blend_of_animal__d5474315-a834-4b9d-ac93-b1a0901fc93f_3.png)
+
 
 # **BEASTFOLK**  
 

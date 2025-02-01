@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/races/battleborn/","noteIcon":"","created":"2025-02-01T02:58:25.114+09:00","updated":"2025-02-01T12:06:22.065+09:00"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/races/battleborn/","noteIcon":"","created":"2025-02-01T02:58:25.114+09:00","updated":"2025-02-01T23:46:48.080+09:00"}
 ---
 
 #Bio-form 
+
+![Battleborn by Ozan Pulat.jpg](/img/user/Attachments/Battleborn%20by%20Ozan%20Pulat.jpg)
 
 # **BATTLEBORN**  
 

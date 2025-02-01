@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-falls/the-slums/","noteIcon":"","created":"2025-01-22T05:45:25.250+09:00","updated":"2025-01-26T21:04:29.660+09:00"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-falls/the-slums/","noteIcon":"","created":"2025-01-22T05:45:25.250+09:00","updated":"2025-02-01T23:45:54.253+09:00"}
 ---
 
 #location 
@@ -77,3 +77,6 @@ The Slums of Prismatic Falls form the city’s lowest and most dangerous layer. 
 3. **Rebel Hideouts**
     
     - Rumors of unaffiliated rebels using the Slums as a base of operations lead the party into a web of intrigue, danger, and moral dilemmas.
+
+
+![Police Spells by Yanli Wang.jpg](/img/user/Attachments/Police%20Spells%20by%20Yanli%20Wang.jpg)

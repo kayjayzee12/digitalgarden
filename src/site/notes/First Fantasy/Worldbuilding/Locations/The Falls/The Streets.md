@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-falls/the-streets/","noteIcon":"","created":"2025-01-21T23:37:01.323+09:00","updated":"2025-01-26T21:04:20.520+09:00"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-falls/the-streets/","noteIcon":"","created":"2025-01-21T23:37:01.323+09:00","updated":"2025-02-01T23:46:14.067+09:00"}
 ---
 
 #location 
@@ -72,3 +72,6 @@ The **Streets** form the gritty foundation of Prismatic Falls, serving as the ci
 3. **Monster Hunts**
     
     - The Nightmare Foundation offers rewards for dealing with nightmare infestations, providing adventurers with opportunities for combat and investigation​.
+
+
+![Trains in the Falls by Dimitry Popov.jpg](/img/user/Attachments/Trains%20in%20the%20Falls%20by%20Dimitry%20Popov.jpg)![Market by Dimitry Popov 2.jpg](/img/user/Attachments/Market%20by%20Dimitry%20Popov%202.jpg)
