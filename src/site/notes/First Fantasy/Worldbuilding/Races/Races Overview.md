@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/races/races-overview/","noteIcon":"","created":"2025-01-21T01:55:52.920+09:00","updated":"2025-02-01T11:46:14.450+09:00"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/races/races-overview/","noteIcon":"","created":"2025-01-21T01:55:52.920+09:00","updated":"2025-02-01T14:09:48.384+09:00"}
 ---
 
 ### **3. Races**
@@ -19,25 +19,11 @@ Created as weapons for past wars, Battleborn are now free to forge their destiny
 
 Primal, animal-humanoid hybrids who thrive in the untamed Overgrowth and other wild regions. They are masters of survival and guerrilla tactics.
 
-- **Starting Bonuses:**
-    - +2 **Dexterity** or **Wisdom**
-    - Gain the tag **"Primal Magic"** (EASY rolls for survival, tracking, and animal interactions).
-    - Choose one trait: **Claws** (unarmed attacks do Weapon Effort), **Keen Senses** (EASY awareness rolls), or **Swiftness** (+1 movement per turn).
-- **Tags:** Agile, Primal, Territorial
-- **Suggested Bio-Forms:** Wolfkin, Catfolk, Birdlike humanoids with sharp senses or talons.
-
 ---
 
-#### **[[Curseborn\|Curseborn]]**
+#### **[[First Fantasy/Worldbuilding/Races/Curseborn\|Curseborn]]**
 
 Void-tainted individuals bearing physical or magical mutations. They wield unstable powers born of corruption and are often mistrusted by others.
-
-- **Starting Bonuses:**
-    - +2 **Intelligence** or **Charisma**
-    - Gain the tag **"Void Mutation"** (choose one: a shadowy tendril attack [Weapon Effort], telepathic link [EASY rolls to sense thoughts], or an aura of fear [NEAR enemies roll CHA or take -1 on rolls for 1 turn]).
-    - Start with a personal curse (e.g., reduced maximum HP, vulnerability to radiant damage).
-- **Tags:** Mutated, Void-Touched, Feared
-- **Suggested Bio-Forms:** Shadowy or corrupted humanoids with visible signs of mutation (extra limbs, glowing veins, etc.).
 
 ---
 
