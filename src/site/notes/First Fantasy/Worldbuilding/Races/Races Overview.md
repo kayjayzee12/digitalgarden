@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/races/races-overview/","noteIcon":"","created":"2025-01-21T01:55:52.920+09:00","updated":"2025-01-23T22:53:35.898+09:00"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/races/races-overview/","noteIcon":"","created":"2025-01-21T01:55:52.920+09:00","updated":"2025-02-01T11:46:14.450+09:00"}
 ---
 
 ### **3. Races**
@@ -8,20 +8,14 @@ Races in _Crystalpunk Chronicles_ offer **starting bonuses**, **tags**, and **ab
 
 ---
 
-#### **[[Battleborn\|Battleborn]]**
+#### **[[First Fantasy/Worldbuilding/Races/Battleborn\|Battleborn]]**
 
 Created as weapons for past wars, Battleborn are now free to forge their destiny, though many struggle with their constructed origins.
 
-- **Starting Bonuses:**
-    - +2 **Strength** or **Constitution**
-    - Gain the tag **"Cybernetic"** (resistance to physical damage; immune to disease; vulnerable to EMP effects).
-    - Start with a built-in magitech augmentation (e.g., retractable weapon arm, grappling claw).
-- **Tags:** Durable, Cybernetic, Haunted
-- **Suggested Bio-Forms:** Metal-plated humanoids with visible magitech enhancements.
 
 ---
 
-#### **[[Beastfolk\|Beastfolk]]**
+#### **[[First Fantasy/Worldbuilding/Races/Beastfolk\|Beastfolk]]**
 
 Primal, animal-humanoid hybrids who thrive in the untamed Overgrowth and other wild regions. They are masters of survival and guerrilla tactics.
 

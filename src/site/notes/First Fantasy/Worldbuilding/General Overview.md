@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/general-overview/","noteIcon":"","created":"2025-01-21T00:00:16.115+09:00","updated":"2025-01-23T22:52:35.880+09:00"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/general-overview/","noteIcon":"","created":"2025-01-21T00:00:16.115+09:00","updated":"2025-01-26T00:25:51.613+09:00"}
 ---
 
+#Info
 ### **1. Campaign Overview**
 
 #### **Setting Name:** _[[Aysta\|Aysta]]_

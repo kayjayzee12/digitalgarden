@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/locations-overview/","noteIcon":"","created":"2025-01-21T00:42:19.677+09:00","updated":"2025-01-23T22:53:00.317+09:00"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/locations-overview/","noteIcon":"","created":"2025-01-21T00:42:19.677+09:00","updated":"2025-01-26T00:22:43.883+09:00"}
 ---
 
+#location
 ### **2. Locations**
 
 #### **[[First Fantasy/Worldbuilding/Locations/The Falls/Prismatic Falls\|Prismatic Falls]]**
@@ -56,7 +57,7 @@ A desolate wasteland of cracked earth and blazing sun, the Scorching Frontier wa
 
 ---
 
-#### **[[The Shattered Empire\|The Shattered Empire]]**
+#### **[[First Fantasy/Worldbuilding/Locations/The Empire/The Shattered Empire\|The Shattered Empire]]**
 
 A fractured land of once-great kingdoms now reduced to squabbling factions. The countryside is dotted with crumbling castles, abandoned towns, and battlefields littered with broken magitech weaponry.
 

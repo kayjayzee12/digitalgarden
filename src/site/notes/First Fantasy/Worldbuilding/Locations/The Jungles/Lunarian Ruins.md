@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-jungles/lunarian-ruins/","noteIcon":"","created":"2025-01-22T09:15:54.596+09:00","updated":"2025-01-23T23:01:39.591+09:00"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-jungles/lunarian-ruins/","noteIcon":"","created":"2025-01-22T09:15:54.596+09:00","updated":"2025-01-26T21:02:52.521+09:00"}
 ---
 
+#location 
 ### Overview
 
 The ruins range from small outposts to sprawling cities, with the most notable being the **Lost City**. These structures are made from materials imbued with mana, showcasing advanced architectural and arcane techniques. Despite their resilience, many ruins are now overgrown or partially collapsed due to the relentless expansion of the Overgrowth​.
@@ -17,7 +18,7 @@ The ruins range from small outposts to sprawling cities, with the most notable b
 1. **[[First Fantasy/Worldbuilding/Locations/The Jungles/The Lost City\|The Lost City]]**:
     - This is the largest and most mysterious of all the ruins. It is protected by powerful magical wards, making it nearly impossible to approach directly.
     - Expeditions to the Lost City often fail or result in strange mental afflictions for survivors. Some report illusory phenomena or the presence of ancient ghosts and living nightmares within its boundaries​.
-2. **[[Underground Chambers\|Underground Chambers]]**: Beneath many ruins are sprawling tunnels, housing ancient machinery and dormant mana-powered constructs. These areas are often dangerous, inhabited by monsters drawn to the concentrated magic.
+2. **[[First Fantasy/Worldbuilding/Locations/The Jungles/Underground Chambers\|Underground Chambers]]**: Beneath many ruins are sprawling tunnels, housing ancient machinery and dormant mana-powered constructs. These areas are often dangerous, inhabited by monsters drawn to the concentrated magic.
 
 ### Theories on the Lunarians
 

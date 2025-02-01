@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-sands/the-scorching-frontier/","noteIcon":"","created":"2025-01-22T13:06:42.417+09:00","updated":"2025-01-23T23:03:25.096+09:00"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-sands/the-scorching-frontier/","noteIcon":"","created":"2025-01-22T13:06:42.417+09:00","updated":"2025-01-26T00:30:03.262+09:00"}
 ---
 
+#location 
 The Scorching Frontier is a harsh, demon-infested desert region, integral to the demon-hunting efforts of Aysta, with its rugged culture defined by survival, opportunity, and danger. Here’s a detailed overview based on the locations and their features within the Frontier:
 
   

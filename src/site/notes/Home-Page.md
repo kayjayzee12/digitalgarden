@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2025-01-13T14:01:55.695+09:00","updated":"2025-01-23T22:49:44.311+09:00"}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2025-01-13T14:01:55.695+09:00","updated":"2025-01-24T17:32:23.266+09:00"}
 ---
 
 # Crystalpunk Chronicles
@@ -7,12 +7,12 @@
 ### __Fundamental Truths of the World__
 These are the fundamental elements of this world and building blocks on which it the realm stands upon of its rules of change.
 
-1) [[First Fantasy/Fateweaver Notes/Magic is Both a Blessing and a Curse\|Magic is Both a Blessing and a Curse]]
-2) [[First Fantasy/Fateweaver Notes/Souls Are a Commodity\|Souls Are a Commodity]]
-3) [[First Fantasy/Fateweaver Notes/Belief Shapes Reality\|Belief Shapes Reality]]
-4) [[First Fantasy/Fateweaver Notes/The World is Terribly Unfair\|The World is Terribly Unfair]]
-5) [[First Fantasy/Fateweaver Notes/Technology is Powered by Sacrifice\|Technology is Powered by Sacrifice]]
-6) [[First Fantasy/Fateweaver Notes/Heroes Are Born from Struggle\|Heroes Are Born from Struggle]]
+1) [[First Fantasy/Fateweaver Notes/Truths/Magic is Both a Blessing and a Curse\|Magic is Both a Blessing and a Curse]]
+2) [[First Fantasy/Fateweaver Notes/Truths/Souls Are a Commodity\|Souls Are a Commodity]]
+3) [[First Fantasy/Fateweaver Notes/Truths/Belief Shapes Reality\|Belief Shapes Reality]]
+4) [[First Fantasy/Fateweaver Notes/Truths/The World is Terribly Unfair\|The World is Terribly Unfair]]
+5) [[First Fantasy/Fateweaver Notes/Truths/Technology is Powered by Sacrifice\|Technology is Powered by Sacrifice]]
+6) [[First Fantasy/Fateweaver Notes/Truths/Heroes Are Born from Struggle\|Heroes Are Born from Struggle]]
 
 ---
 
@@ -66,5 +66,7 @@ These are the fundamental elements of this world and building blocks on which it
 
 ---
 
+### **11. [[First Fantasy/Fateweaver Notes/Homebrew Rules/Homebrew Overview\|Homebrew Overview]]**
 
 
+---

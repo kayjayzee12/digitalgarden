@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-falls/the-slums/","noteIcon":"","created":"2025-01-22T05:45:25.250+09:00","updated":"2025-01-23T23:00:30.106+09:00"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-falls/the-slums/","noteIcon":"","created":"2025-01-22T05:45:25.250+09:00","updated":"2025-01-26T21:04:29.660+09:00"}
 ---
 
+#location 
 ### Expanded Guide to the Slums of Prismatic Falls
 
 #### **Overview**

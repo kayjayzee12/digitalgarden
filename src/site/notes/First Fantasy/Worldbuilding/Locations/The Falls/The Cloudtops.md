@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-falls/the-cloudtops/","noteIcon":"","created":"2025-01-21T10:27:25.473+09:00","updated":"2025-01-23T22:58:38.803+09:00"}
+{"dg-publish":true,"permalink":"/first-fantasy/worldbuilding/locations/the-falls/the-cloudtops/","noteIcon":"","created":"2025-01-21T10:27:25.473+09:00","updated":"2025-01-26T21:04:03.441+09:00"}
 ---
 
+#location 
 Expanded Guide to the Cloudtops of Prismatic Falls
 
   
